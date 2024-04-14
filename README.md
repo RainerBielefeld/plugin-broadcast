@@ -1,7 +1,7 @@
 Broadcast Message Plugin
 ========================
 
-- Broadcast messages to all users via the application
+- Broadcast messages to all users via the application, version 1.0.2 with additional Locale de_DE and es_ES
 - Send a message to all active users via email
 
 For example, it could be used to publish announcements or schedule maintenance.
